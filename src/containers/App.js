@@ -3,6 +3,7 @@ import './App.css';
 
 import Navigation from '../components/Navigation';
 import Jumbotron from '../components/Jumbotron';
+import DirectoryTable from '../components/DirectoryTable';
 
 class App extends React.Component {
 
@@ -19,6 +20,7 @@ class App extends React.Component {
       <div className="App">
         <Navigation />
         <Jumbotron />
+        <DirectoryTable />
       </div>
     );
   }
