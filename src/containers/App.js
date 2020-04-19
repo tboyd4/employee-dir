@@ -1,6 +1,9 @@
 import React from 'react';
 import './App.css';
 
+import Navigation from '../components/Navigation';
+import Jumbotron from '../components/Jumbotron';
+
 class App extends React.Component {
 
   constructor(props) {
@@ -14,7 +17,8 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>{this.state.message}</h1>
+        <Navigation />
+        <Jumbotron />
       </div>
     );
   }
