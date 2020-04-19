@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 
+import EmployeeData from '../db/employee.json';
+
 import Navigation from '../components/Navigation';
 import Jumbotron from '../components/Jumbotron';
 import DirectoryTable from '../components/DirectoryTable';
@@ -21,7 +23,7 @@ class App extends React.Component {
       <div className="App">
         <Navigation />
         <Jumbotron />
-        <DirectoryTable />
+        <DirectoryTable employeeData={EmployeeData} />
         <FootNav />
       </div>
     );

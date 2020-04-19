@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Tyler",
+      "lastName": "Boyd",
+      "jobTitle": "Web Developer",
+      "department": "IT and Software",
+      "phoneExt": 1021,
+      "email": "tboyd@dsflooring.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Ethan",
+      "lastName": "Flaherty",
+      "jobTitle": "Production Manager",
+      "department": "Production",
+      "phoneExt": 1015,
+      "email": "eflaherty@dsflooring.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Marty",
+      "lastName": "Wilhelm",
+      "jobTitle": "Installation Manager",
+      "department": "Installation",
+      "phoneExt": 1033,
+      "email": "mwilhelm@dsflooring.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Jacob",
+      "lastName": "Leake",
+      "jobTitle": "Production Coordinator",
+      "department": "Production",
+      "phoneExt": 1002,
+      "email": "jleake@dsflooring.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Leeroy",
+      "lastName": "Jenkins",
+      "jobTitle": "Raid Group Alternate",
+      "department": "Raiding",
+      "phoneExt": 1112,
+      "email": "ljekins@dsflooring.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Jack",
+      "lastName": "Nicholson",
+      "jobTitle": "Crime Syndicate Leader",
+      "department": "Criminal Justice",
+      "phoneExt": 1057,
+      "email": "jnicholson@dsflooring.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Slim",
+      "lastName": "Shady",
+      "jobTitle": "Spitter of Mad Rhymez",
+      "department": "Reality",
+      "phoneExt": 1992,
+      "email": "sshady@dsflooring.com"
+    }
+  ]
+}
