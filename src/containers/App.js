@@ -4,6 +4,7 @@ import './App.css';
 import Navigation from '../components/Navigation';
 import Jumbotron from '../components/Jumbotron';
 import DirectoryTable from '../components/DirectoryTable';
+import FootNav from '../components/FootNav';
 
 class App extends React.Component {
 
@@ -21,6 +22,7 @@ class App extends React.Component {
         <Navigation />
         <Jumbotron />
         <DirectoryTable />
+        <FootNav />
       </div>
     );
   }
