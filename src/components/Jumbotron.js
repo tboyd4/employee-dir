@@ -6,7 +6,7 @@ function Jumbotron() {
       <div className="container">
         <h1 className="display-4">Directory of Employees</h1>
         <p className="lead">
-          List of Employees. You can sort by role, phone extension, or department.
+          List of Employees, including their Roles, Departments, and Contact Info. To Sort Alphabetically by Last Name, click the name Column
         </p>
       </div>
     </div>
